@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/main_about.png</file>
+        <file>image/main_company.png</file>
+        <file>image/main_config.png</file>
+        <file>image/main_data.png</file>
+        <file>image/main_exit.png</file>
+        <file>image/main_help.png</file>
+        <file>image/main_main.png</file>
+        <file>image/main_person.png</file>
+        <file>../../../../../../Downloads/log.png</file>
+        <file>../../../../../../Downloads/usb.png</file>
+        <file>../../../../../../Downloads/wifi.png</file>
+        <file>../../../../../../Downloads/map.png</file>
+        <file>../../../../../../Downloads/homepage.png</file>
+        <file>../../../../../../Downloads/map2.png</file>
+        <file>../../../../../../Downloads/usb2.png</file>
+        <file>../../../../../截图/Snipaste_2022-04-11_13-19-01.png</file>
+        <file>../../../../../截图/Snipaste_2022-04-11_13-19-23.png</file>
+        <file>../../../../../截图/Snipaste_2022-04-11_13-19-38.png</file>
+        <file>../../../../../截图/Snipaste_2022-05-02_13-38-23.png</file>
+    </qresource>
+</RCC>

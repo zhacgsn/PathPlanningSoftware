@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Map>
+  <MapSize>30, 20</MapSize>
+  <Obstacles id="1">
+    <X>5</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="2">
+    <X>5</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="3">
+    <X>5</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="4">
+    <X>5</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="5">
+    <X>8</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="6">
+    <X>8</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="7">
+    <X>8</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="8">
+    <X>8</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="9">
+    <X>11</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="10">
+    <X>11</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="11">
+    <X>11</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="12">
+    <X>11</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="13">
+    <X>14</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="14">
+    <X>14</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="15">
+    <X>14</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="16">
+    <X>14</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="17">
+    <X>17</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="18">
+    <X>17</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="19">
+    <X>17</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="20">
+    <X>17</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="21">
+    <X>20</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="22">
+    <X>20</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="23">
+    <X>20</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="24">
+    <X>20</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="25">
+    <X>23</X>
+    <Y>1</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="26">
+    <X>23</X>
+    <Y>6</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="27">
+    <X>23</X>
+    <Y>11</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+  <Obstacles id="28">
+    <X>23</X>
+    <Y>16</Y>
+    <Size>2, 3</Size>
+  </Obstacles>
+</Map>
