@@ -25,6 +25,6 @@
 
 - 采用A* 算法
 
-- 界面实现参考
+- 界面实现参考 https://github.com/feiyangqingyun/QWidgetDemo
 
-- 只是用于保存毕设
+- 毕设项目
