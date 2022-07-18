@@ -26,5 +26,3 @@
 - 采用A* 算法
 
 - 界面实现参考 https://github.com/feiyangqingyun/QWidgetDemo
-
-- 毕设项目
